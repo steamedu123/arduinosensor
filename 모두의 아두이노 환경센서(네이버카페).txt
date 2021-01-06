@@ -64,6 +64,4 @@ C604 프로젝트 : NRF24L01 + 미세먼지 측정기 + 온도습도기압
   https://cafe.naver.com/arduinosensor/book5108749/68
 
 
-tps://cafe.naver.com/arduinosensor/book5108749/68
-
 
